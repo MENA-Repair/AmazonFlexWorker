@@ -1,0 +1,37 @@
+{
+  "username": "gamil_syr_1988@outlook.com",
+  "password": "gamil_999",
+  "minBlockRate": 36,
+  "minPayRatePerHour": 0,
+  "arrivalBuffer": 50,
+  "minTipRate": 15,
+  "serviceType": "tip",
+  "desiredWarehouses": [
+    "9c332725-c1be-405f-87c5-e7def58595f5"
+  ],
+  "desiredWarehousesAddress": [
+    "55 Bay St, Brooklyn, NY 11231, \nFresh Online"
+  ],
+  "desiredStartTime": "00:00",
+  "desiredEndTime": "23:30",
+  "desiredWeekdays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thur",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "retryLimit": 70,
+  "retryAfter": 25,
+  "refreshInterval": 5.35,
+  "twilioAcctSid": "",
+  "twilioAuthToken": "",
+  "twilioFromNumber": "",
+  "twilioToNumber": "",
+  "discordWebHookUrl": "https://discord.com/api/webhooks/",
+  "refreshToken": "Atnr|EwICIAighLgVldvtkjSamKKFkgtIxvt1f8BNbmidKOYHIJ_I7Au6NYZAHu6evoN76H7Sxa__pum3REZMp1KEe8iCRRJnuuvXZaPzXz8yD2VH7jkm4J5lViUzNT7Yhj3Dgw_QcbuIfoDBkY-c6LUu-n5L-YAqdceOm41CPgRCLjPSTSGrs1qQvyFrGcVaJ80vcvVszTC_omxZXfij4S3b--6_xHWcl7FMnnKp_VRNCyulZIXmFgwV0EK4tSchvskm6PGnuROkYKesDx2qb2tu3dtQzGxaokC3vV6w9I_nBVXCAdLVgg",
+  "accessToken": "Atna|EwICIBzoE6xg6lWjKHBdhR9lZwMH0JUVnVTGQae4oL7nUFMKTRoMmMz1gpTfosR2XwxszYy2eLAo08s342AsXUw1Ehaa9GOBidUfnq2P1fogxn0iKCaF6bgA3A38cHbi4DXZG2rICGMSt-zQ10AD0wHm9dWiQmZTQDvXXasDzbVdSRUPBeJR06sOpRDUSp8CFJ0ynHnB94z0LGowQoWDuoTu-tU2Lg36mpbwO51DMu7XBxLbpGgG6ie8cnEnf267i23Sz7xEqpGye_cn0R0PPo3_N395TVQuWCB4nz1btCdxjStx0Q",
+  "antiCaptchaToken": "16b15f6cddb979a1061edd7337fda4dd"
+}
